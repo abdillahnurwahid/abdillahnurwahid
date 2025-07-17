@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdillah-nurwahid/)
 
 #### Fun with Code
+<img src="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/snake.svg" alt="Snake animation" />
 
 ###
