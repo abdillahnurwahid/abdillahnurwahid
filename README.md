@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 #### Fun with Code
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/pacman-output/puzzle-bobble-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/pacman-output/puzzle-bobble-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/abdillahnurwahid/abdillahnurwahid/snake-output/snake.svg" alt="Snake animation" />
 
 ###
